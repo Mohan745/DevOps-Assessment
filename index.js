@@ -1,10 +1,1 @@
-{
-  "name": "your-project-name",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    // Your dependencies here
-  }
-}
+
